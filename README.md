@@ -2,6 +2,9 @@
 安徽电信流量查询 tg bot   
 !!function only!!
 
+### 公共Bot
+[@aahwctBot](https://t.me/aahwctBot)
+
 ### 使用
 自行部署环境,调用main函数传入Bot消息数据.  
 Tg Bot查询命令设为 `/start`
