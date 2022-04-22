@@ -15,6 +15,13 @@ Tg Bot查询命令设为 `/start`
 
 > main函数body => Tg Bot消息数据
 
+### 参数openid获取方式
+对微信抓包,打开安徽电信小程序,打开套餐余量
+筛选 `https://wx.ah.189.cn/wxws/xcxahwx/detailInfo.do`
+
+![alt](https://github.com/publzs/ahBot/blob/main/img/Screenshot_HttpCanary.png)
+
+
 ### 依赖
 axios
 
